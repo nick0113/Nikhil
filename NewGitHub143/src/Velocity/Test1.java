@@ -26,7 +26,72 @@ public class Test1 {
 	    System.out.println(b.charAt(3));
 	    System.out.println(a.indexOf('j'));
 	    
-	   
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+		System.out.println(c.trim());      // trim Methods for include space print in the String
+		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
+
+	    System.out.println(b.charAt(3));
+	    System.out.println(a.indexOf('j'));
+	    
 	    
 	    
 	    
