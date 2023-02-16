@@ -6,8 +6,8 @@ public class Test1 {
 		
 		
 		
-		String a = new String("Nikhil");
-		String b = "Nikhil";
+		String a = new String("jayesh");
+		String b = "jayesh";
 
 		System.out.println(a.toUpperCase());   //  toUpperCase for convert string is capital
 		System.out.println(b.toLowerCase());   // toLowerCas for convert string is samll
@@ -16,20 +16,17 @@ public class Test1 {
 		System.out.println(a.length());      //  length For Calculate The string size
 		
 		
-		String c = "  Jayesh  ";
+		String c = "  jayesh  ";
 		String d = "";
-		String e = "Velocity";
+		String e = "jayesh";
 		
 		System.out.println(c.trim());      // trim Methods for include space print in the String
 		System.out.println(d.isEmpty());   // isEmpty Methods are use for the String is empty or not and its out put show in boolean
 
 	    System.out.println(b.charAt(3));
-	    System.out.println(a.indexOf('k'));
+	    System.out.println(a.indexOf('j'));
 	    
-	    System.out.println(a.equals(b));
-	    System.out.println(e.replace('V', 'v'));
 	   
-	    String f = "25874136";
 	    
 	    
 	    
